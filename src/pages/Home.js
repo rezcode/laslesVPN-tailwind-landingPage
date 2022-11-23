@@ -2,6 +2,7 @@ import React from "react";
 import Banner from "../components/Banner";
 import Facilities from "../components/Facilities";
 import Features from "../components/Features";
+import GlobalNetwork from "../components/GlobalNetwork";
 import Plans from "../components/Plans";
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
         <Facilities />
         <Features />
         <Plans />
+        <GlobalNetwork />
       </div>
     </>
   );

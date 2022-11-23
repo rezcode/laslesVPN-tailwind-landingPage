@@ -57,7 +57,7 @@ const Plans = () => {
         {plans.map((item, index) => (
           <div
             key={index}
-            className="relative mx-auto border px-20 pt-10 md:pt-20 pb-72 mb-9 md:mb-20 rounded-md"
+            className="relative mx-auto border px-20 last:border-red-500 pt-10 md:pt-20 pb-72 mb-9 md:mb-20 rounded-md"
           >
             <img src={item.icon} className="mx-auto mb-7" alt="plan-icons" />
             <div className="text-center mb-7 font-medium text-lg">
