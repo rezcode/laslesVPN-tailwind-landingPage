@@ -13,7 +13,7 @@ const Banner = () => {
             Want anything to be easy <br />
             <span className="font-bold">with LaslesVPN.</span>
           </h1>
-          <div className="font-medium text-base pb-12">
+          <div className="font-medium text-gray-500 text-base pb-12">
             Provide a network for all your needs with ease and fun using{" "}
             <span className="font-bold">LaslesVPN</span> discover interesting
             features from us.

@@ -16,8 +16,8 @@ const Features = () => {
         <div>
           <img src={Ilustration2} alt="features" />
         </div>
-        <div>
-          <div className="mb-5 text-2xl md:text-4xl font-medium mt-6">
+        <div className="text-gray-500">
+          <div className="mb-5 text-2xl text-slate-900 md:text-4xl font-medium mt-6">
             We Provide Many Features <br /> You Can Use
           </div>
           <div className="mb-5">
