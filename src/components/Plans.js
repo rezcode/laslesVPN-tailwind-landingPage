@@ -87,7 +87,7 @@ const Plans = () => {
                 </div>
                 <div className="text-center">
                   <button className="px-11 py-3 font-bold rounded-full text-red-500 hover:bg-gray-50 border-red-500 border">
-                    Sign Up
+                    Select
                   </button>
                 </div>
               </div>
